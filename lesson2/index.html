@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Lesson 2 - пример веб-страницы </title>
+        <style>
+            body {background: #f7f7f7}
+
+            h1 {
+                color: red;
+                text-align: center;
+            }
+
+            p {
+                float: left;
+                width: 50%;
+                color: green;
+            }
+            input {
+                margin-bottom: 10px;
+                margin-top: 10px;
+            }
+        </style>
+    </head>
+    <body>
+        <h1> Заголовок </h1>
+        <p> Первый абзац</p>
+        <p> Второй абзац</p>
+        <input type="button" id="hider" value = "нажмите, чтобы спрятать текст" />
+        <div id="hide">text</div>
+        <script>
+            document.getElementById('hider').onclick = function() {
+                document.getElementById('hide').style.display = 'none';
+            }
+        </script>
+    </body>
+</html>
