@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="313d8e87-1127-4460-94ed-b434a16588ad" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson11-tables/example.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson11-tables/example.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson11-tables/tables.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -29,17 +29,17 @@
       <file leaf-file-name="images.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lesson10_images/images.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+            <state relative-caret-position="102">
+              <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="example.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lesson11-tables/example.html">
+      <file leaf-file-name="tables.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lesson11-tables/tables.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="126">
+              <caret line="7" column="54" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -78,6 +78,7 @@
         <option value="$PROJECT_DIR$/lesson9_links/links.html" />
         <option value="$PROJECT_DIR$/lesson10_images/images.html" />
         <option value="$PROJECT_DIR$/lesson11-tables/example.html" />
+        <option value="$PROJECT_DIR$/lesson11-tables/tables.html" />
       </list>
     </option>
   </component>
@@ -91,8 +92,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="1208" />
-    <option name="width" value="719" />
+    <option name="x" value="1188" />
+    <option name="width" value="739" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -173,18 +174,18 @@
       <workItem from="1539251781718" duration="2717000" />
       <workItem from="1539344930184" duration="11812000" />
       <workItem from="1539369384416" duration="4865000" />
-      <workItem from="1539518160358" duration="72000" />
+      <workItem from="1539518160358" duration="4581000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24501000" />
+    <option name="totallyTimeSpent" value="29010000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1208" y="0" width="719" height="1047" extended-state="0" />
+    <frame x="1188" y="0" width="739" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24669604" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24489796" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -420,15 +421,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lesson10_images/images.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        <state relative-caret-position="102">
+          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson11-tables/example.html">
+    <entry file="file://$PROJECT_DIR$/lesson11-tables/tables.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="126">
+          <caret line="7" column="54" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
         </state>
       </provider>
     </entry>

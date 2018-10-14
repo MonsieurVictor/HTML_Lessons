@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Таблицы в html</title>
+</head>
+<body>
+    <table border="2" > <!--обводка-->
+        <caption>Таблица размеров обуви </caption>
+        <tr>
+            <th>СНГ</th>
+            <th>Великобритания</th>
+            <th>Европа</th>
+            <th>Длина ступни, см</th>
+        </tr>
+        <tr><td>34,5</td><td>3,5</td><td>36</td><td>23</td></tr>
+        <tr><td>39</td><td>7</td><td>40,7</td><td>26</td></tr>
+        <tr><td>43</td><td>9,5</td><td>44</td><td>28</td></tr>
+        <tr><td>44</td><td>10,5</td><td>45</td><td>29</td></tr>
+    </table>
+    <br />
+    <style>
+        * {
+            color: #500d00;
+        }
+
+    </style>
+    <table border="1" cellpaddong="7" cellspacing="0"> <!--обводка,отступы от текста во все стороны, пробел-->
+        <tr>
+            <td colspan="3" bgcolor="red" align="center">Ячейка </td> <!--colspan=сколько столбцов занимает этот столбец-->
+        </tr>
+        <tr>
+            <td align="center" valign="top" >Ячейка 2 </td>
+            <td width="96%"  valign="bottom" >Ячейка 3 </td>
+            <td width="2%" valign="top" >Ячейка 4 </td>
+        </tr>
+    </table>
+</body>
+</html>
