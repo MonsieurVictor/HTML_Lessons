@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Поля ввода</title>
+</head>
+<body>
+    <form name="test" action="" methods="post">
+        <input type="text" value="Текст по умолчанию"/>
+        <br /> <br />
+
+        <label for="name"> Введите ваше имя</label><input type="text"
+               placeholder="Поиск..." id="name" name="name"
+               title="Подсказка, не более 10 символов"
+               maxlength="10" />
+        <br /> <br />
+
+        <label for="date">День рождения</label> <input type="datetime-local"
+            name="date" id="date"/>
+        <br /> <br />
+
+        <label for="date">URL</label> <input type="url"/>
+        <br /> <br />
+
+        <input type="range"/>
+        <br /> <br />
+
+        <label for="state">Мужской<input type="radio" name="state" id="state"/>
+
+            <label for="state">Мужской<input type="radio" name="state" id="state"/>
+                <br /> <br />
+    </form>
+</body>
+</html>
