@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="313d8e87-1127-4460-94ed-b434a16588ad" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson18_subAndSup/subAndSup.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson19_moreTags/moreTags.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson20_browserOptimisation/browserOptimisation.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson17_specialTagsRadio/specialTagsRadio.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson17_specialTagsRadio/specialTagsRadio.html" afterDir="false" />
     </list>
@@ -58,35 +57,17 @@
       <file leaf-file-name="specialTagsRadio.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lesson17_specialTagsRadio/specialTagsRadio.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="28" lean-forward="true" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+            <state relative-caret-position="119">
+              <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="25" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tagTest.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson5_tagTest/tagTest.html">
+      <file leaf-file-name="browserOptimisation.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lesson20_browserOptimisation/browserOptimisation.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="518">
-              <caret line="72" column="9" selection-start-line="72" selection-start-column="4" selection-end-line="72" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="subAndSup.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson18_subAndSup/subAndSup.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="moreTags.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lesson19_moreTags/moreTags.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="36" column="17" lean-forward="true" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+            <state relative-caret-position="804">
+              <caret line="64" column="14" selection-start-line="64" selection-start-column="14" selection-end-line="64" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -137,9 +118,10 @@
         <option value="$PROJECT_DIR$/lesson16_selectAndOption/selectAndOption.html" />
         <option value="$PROJECT_DIR$/lesson17_specialTags/lesson15_specialTags.html" />
         <option value="$PROJECT_DIR$/lesson17_specialTags/specialTags.html" />
-        <option value="$PROJECT_DIR$/lesson17_specialTagsRadio/specialTagsRadio.html" />
         <option value="$PROJECT_DIR$/lesson18_subAndSup/subAndSup.html" />
         <option value="$PROJECT_DIR$/lesson19_moreTags/moreTags.html" />
+        <option value="$PROJECT_DIR$/lesson17_specialTagsRadio/specialTagsRadio.html" />
+        <option value="$PROJECT_DIR$/lesson20_browserOptimisation/browserOptimisation.html" />
       </list>
     </option>
   </component>
@@ -209,6 +191,11 @@
               <item name="HTML_Lessons" type="462c0819:PsiDirectoryNode" />
               <item name="lesson19_moreTags" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="HTML_Lessons" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HTML_Lessons" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson20_browserOptimisation" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -260,12 +247,12 @@
       <workItem from="1539774215931" duration="3766000" />
       <workItem from="1539778001981" duration="6000" />
       <workItem from="1540036264507" duration="1531000" />
-      <workItem from="1540122380966" duration="13729000" />
+      <workItem from="1540122380966" duration="15006000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53178000" />
+    <option name="totallyTimeSpent" value="54455000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -351,13 +338,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lesson10_images/images.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lesson11_tables/tables.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -658,10 +638,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson17_specialTagsRadio/specialTagsRadio.html">
+    <entry file="file://$PROJECT_DIR$/lesson19_moreTags/moreTags.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="28" lean-forward="true" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+        <state relative-caret-position="119">
+          <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="44" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -674,15 +654,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lesson5_tagTest/tagTest.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="518">
+        <state relative-caret-position="532">
           <caret line="72" column="9" selection-start-line="72" selection-start-column="4" selection-end-line="72" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson19_moreTags/moreTags.html">
+    <entry file="file://$PROJECT_DIR$/lesson17_specialTagsRadio/specialTagsRadio.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" column="17" lean-forward="true" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+        <state relative-caret-position="119">
+          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="25" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson20_browserOptimisation/browserOptimisation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="804">
+          <caret line="64" column="14" selection-start-line="64" selection-start-column="14" selection-end-line="64" selection-end-column="14" />
         </state>
       </provider>
     </entry>
