@@ -2,9 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="313d8e87-1127-4460-94ed-b434a16588ad" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson20_browserOptimisation/browserOptimisation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/lesson1-2_simpleExample/simpleExample.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/lesson1-2_simpleExample/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson17_specialTagsRadio/specialTagsRadio.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson17_specialTagsRadio/specialTagsRadio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson10_images/images.html" beforeDir="false" afterPath="$PROJECT_DIR$/pureHTMLLessons/lesson10_images/images.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson11_tables/tables.html" beforeDir="false" afterPath="$PROJECT_DIR$/pureHTMLLessons/lesson11_tables/tables.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson12-13_tagHead/tagHead.html" beforeDir="false" afterPath="$PROJECT_DIR$/pureHTMLLessons/lesson12-13_tagHead/tagHead.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson14_forms/forms.html" beforeDir="false" afterPath="$PROJECT_DIR$/pureHTMLLessons/lesson14_forms/forms.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson15_textArea_button/img/submit.png" beforeDir="false" afterPath="$PROJECT_DIR$/pureHTMLLessons/lesson15_textArea_button/img/submit.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson15_textArea_button/textArea.html" beforeDir="false" afterPath="$PROJECT_DIR$/pureHTMLLessons/lesson15_textArea_button/textArea.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson16_selectAndOption/selectAndOption.html" beforeDir="false" afterPath="$PROJECT_DIR$/pureHTMLLessons/lesson16_selectAndOption/selectAndOption.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson17_specialTagsRadio/audio/Mirrors.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/pureHTMLLessons/lesson17_specialTagsRadio/audio/Mirrors.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson17_specialTagsRadio/specialTagsRadio.html" beforeDir="false" afterPath="$PROJECT_DIR$/pureHTMLLessons/lesson17_specialTagsRadio/specialTagsRadio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson18_subAndSup/subAndSup.html" beforeDir="false" afterPath="$PROJECT_DIR$/pureHTMLLessons/lesson18_subAndSup/subAndSup.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson19_moreTags/moreTags.html" beforeDir="false" afterPath="$PROJECT_DIR$/pureHTMLLessons/lesson19_moreTags/moreTags.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1_HelloWorld/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pureHTMLLessons/lesson1_HelloWorld/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2-4_simpleHtml/example.html" beforeDir="false" afterPath="$PROJECT_DIR$/pureHTMLLessons/lesson2-4_simpleHtml/example.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2-4_simpleHtml/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pureHTMLLessons/lesson2-4_simpleHtml/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson20_browserOptimisation/browserOptimisation.html" beforeDir="false" afterPath="$PROJECT_DIR$/pureHTMLLessons/lesson20_browserOptimisation/browserOptimisation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson5_tagTest/tagTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/pureHTMLLessons/lesson5_tagTest/tagTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson6-7_tagTest2/tagTest2.html" beforeDir="false" afterPath="$PROJECT_DIR$/pureHTMLLessons/lesson6-7_tagTest2/tagTest2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson8_tagAttributes/attributes.html" beforeDir="false" afterPath="$PROJECT_DIR$/pureHTMLLessons/lesson8_tagAttributes/attributes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9_links/links.html" beforeDir="false" afterPath="$PROJECT_DIR$/pureHTMLLessons/lesson9_links/links.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,69 +37,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="forms.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson14_forms/forms.html">
+      <file leaf-file-name="simpleExample.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CSS/lesson1-2_simpleExample/simpleExample.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="38" column="28" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
+            <state relative-caret-position="391">
+              <caret line="23" column="40" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="images.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson10_images/images.html">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CSS/lesson1-2_simpleExample/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="36" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="textArea.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson15_textArea_button/textArea.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="56">
-              <caret line="4" column="73" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="73" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="selectAndOption.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson16_selectAndOption/selectAndOption.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="520">
-              <caret line="26" column="73" selection-start-line="26" selection-start-column="73" selection-end-line="26" selection-end-column="73" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="specialTagsRadio.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson17_specialTagsRadio/specialTagsRadio.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="25" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="browserOptimisation.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lesson20_browserOptimisation/browserOptimisation.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="804">
-              <caret line="64" column="14" selection-start-line="64" selection-start-column="14" selection-end-line="64" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tagHead.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson12-13_tagHead/tagHead.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" selection-start-line="5" selection-end-line="6" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state>
+              <caret column="4" selection-start-column="4" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -91,6 +61,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -122,6 +93,8 @@
         <option value="$PROJECT_DIR$/lesson19_moreTags/moreTags.html" />
         <option value="$PROJECT_DIR$/lesson17_specialTagsRadio/specialTagsRadio.html" />
         <option value="$PROJECT_DIR$/lesson20_browserOptimisation/browserOptimisation.html" />
+        <option value="$PROJECT_DIR$/CSS/lesson1-2_simpleExample/simpleExample.html" />
+        <option value="$PROJECT_DIR$/CSS/lesson1-2_simpleExample/style.css" />
       </list>
     </option>
   </component>
@@ -135,8 +108,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1165" />
-    <option name="width" value="762" />
+    <option name="x" value="1373" />
+    <option name="width" value="554" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -148,6 +121,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -158,60 +132,31 @@
             <path>
               <item name="HTML_Lessons" type="b2602c69:ProjectViewProjectNode" />
               <item name="HTML_Lessons" type="462c0819:PsiDirectoryNode" />
-              <item name="Labs" type="462c0819:PsiDirectoryNode" />
+              <item name="CSS" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="HTML_Lessons" type="b2602c69:ProjectViewProjectNode" />
               <item name="HTML_Lessons" type="462c0819:PsiDirectoryNode" />
-              <item name="Labs" type="462c0819:PsiDirectoryNode" />
-              <item name="Lab1_Two_Connected_Hypertext_Files" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HTML_Lessons" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HTML_Lessons" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson5_tagTest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HTML_Lessons" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HTML_Lessons" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson15_textArea_button" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HTML_Lessons" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HTML_Lessons" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson16_selectAndOption" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HTML_Lessons" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HTML_Lessons" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson17_specialTagsRadio" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HTML_Lessons" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HTML_Lessons" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson19_moreTags" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HTML_Lessons" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HTML_Lessons" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson20_browserOptimisation" type="462c0819:PsiDirectoryNode" />
+              <item name="CSS" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson1-2_simpleExample" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Win10\WebstormProjects\HTML_Lessons\pureHTMLLessons" />
       <recent name="C:\Users\Win10\WebstormProjects\HTML_Lessons" />
     </key>
   </component>
@@ -247,12 +192,14 @@
       <workItem from="1539774215931" duration="3766000" />
       <workItem from="1539778001981" duration="6000" />
       <workItem from="1540036264507" duration="1531000" />
-      <workItem from="1540122380966" duration="15006000" />
+      <workItem from="1540122380966" duration="15444000" />
+      <workItem from="1540150768118" duration="2568000" />
+      <workItem from="1540293465238" duration="1198000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54455000" />
+    <option name="totallyTimeSpent" value="58659000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -264,10 +211,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1165" y="0" width="762" height="1047" extended-state="0" />
+    <frame x="1373" y="0" width="554" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2044199" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23062016" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3295711" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -289,19 +236,19 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24786325" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2044199" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3295711" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.3295711" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3295711" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Favorites" order="2" side_tool="true" />
     </layout-to-restore>
   </component>
@@ -338,99 +285,77 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lesson11_tables/tables.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="12" lean-forward="true" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson12-13_tagHead/tagHead.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson5_tagTest/tagTest.html">
+    <entry file="file://$PROJECT_DIR$/pureHTMLLessons/lesson5_tagTest/tagTest.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1377">
           <caret line="81" column="49" selection-start-line="81" selection-start-column="49" selection-end-line="81" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson14_forms/forms.html">
+    <entry file="file://$PROJECT_DIR$/pureHTMLLessons/lesson14_forms/forms.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
           <caret line="29" column="44" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson9_links/links.html">
+    <entry file="file://$PROJECT_DIR$/pureHTMLLessons/lesson9_links/links.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson10_images/images.html">
+    <entry file="file://$PROJECT_DIR$/pureHTMLLessons/lesson10_images/images.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson11_tables/tables.html">
+    <entry file="file://$PROJECT_DIR$/pureHTMLLessons/lesson11_tables/tables.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="12" lean-forward="true" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson5_tagTest/tagTest.html">
+    <entry file="file://$PROJECT_DIR$/pureHTMLLessons/lesson5_tagTest/tagTest.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1377">
           <caret line="81" column="49" selection-start-line="81" selection-start-column="49" selection-end-line="81" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson12-13_tagHead/tagHead.html">
+    <entry file="file://$PROJECT_DIR$/pureHTMLLessons/lesson12-13_tagHead/tagHead.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson9_links/links.html">
+    <entry file="file://$PROJECT_DIR$/pureHTMLLessons/lesson9_links/links.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson5_tagTest/tagTest.html">
+    <entry file="file://$PROJECT_DIR$/pureHTMLLessons/lesson5_tagTest/tagTest.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1377">
           <caret line="81" column="49" selection-start-line="81" selection-start-column="49" selection-end-line="81" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson10_images/images.html">
+    <entry file="file://$PROJECT_DIR$/pureHTMLLessons/lesson10_images/images.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson9_links/links.html">
+    <entry file="file://$PROJECT_DIR$/pureHTMLLessons/lesson9_links/links.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
@@ -451,21 +376,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson2-4_simpleHtml/example.html">
+    <entry file="file://$PROJECT_DIR$/pureHTMLLessons/lesson2-4_simpleHtml/example.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson5_tagTest/tagTest.html">
+    <entry file="file://$PROJECT_DIR$/pureHTMLLessons/lesson5_tagTest/tagTest.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1394">
           <caret line="82" lean-forward="true" selection-start-line="82" selection-end-line="82" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson6-7_tagTest2/tagTest2.html">
+    <entry file="file://$PROJECT_DIR$/pureHTMLLessons/lesson6-7_tagTest2/tagTest2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="833">
           <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
@@ -486,14 +411,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson2-4_simpleHtml/example.html">
+    <entry file="file://$PROJECT_DIR$/pureHTMLLessons/lesson2-4_simpleHtml/example.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson5_tagTest/tagTest.html">
+    <entry file="file://$PROJECT_DIR$/pureHTMLLessons/lesson5_tagTest/tagTest.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" selection-start-line="22" selection-end-line="22" />
@@ -521,10 +446,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson2-4_simpleHtml/example.html">
+    <entry file="file://$PROJECT_DIR$/pureHTMLLessons/lesson2-4_simpleHtml/example.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson2-4_simpleHtml/index.html">
+    <entry file="file://$PROJECT_DIR$/pureHTMLLessons/lesson2-4_simpleHtml/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Labs/Lab1_Two_Connected_Hypertext_Files/index2.html">
@@ -543,20 +468,20 @@
     <entry file="file://$PROJECT_DIR$/Labs/Lab1_Two_Connected_Hypertext_Files/images/background2.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson2-4_simpleHtml/index.html">
+    <entry file="file://$PROJECT_DIR$/pureHTMLLessons/lesson2-4_simpleHtml/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson8_tagAttributes/attributes.html">
+    <entry file="file://$PROJECT_DIR$/pureHTMLLessons/lesson8_tagAttributes/attributes.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson1_HelloWorld/index.html">
+    <entry file="file://$PROJECT_DIR$/pureHTMLLessons/lesson1_HelloWorld/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson2-4_simpleHtml/example.html">
+    <entry file="file://$PROJECT_DIR$/pureHTMLLessons/lesson2-4_simpleHtml/example.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
@@ -577,21 +502,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson6-7_tagTest2/tagTest2.html">
+    <entry file="file://$PROJECT_DIR$/pureHTMLLessons/lesson6-7_tagTest2/tagTest2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="833">
           <caret line="49" selection-start-line="49" selection-end-line="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson9_links/links.html">
+    <entry file="file://$PROJECT_DIR$/pureHTMLLessons/lesson9_links/links.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson11_tables/tables.html">
+    <entry file="file://$PROJECT_DIR$/pureHTMLLessons/lesson11_tables/tables.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
@@ -599,77 +524,87 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lesson13_divAndSpan/dinAndSpan.html" />
-    <entry file="file://$PROJECT_DIR$/lesson12-13_tagHead/tagHead.html">
+    <entry file="file://$PROJECT_DIR$/pureHTMLLessons/lesson12-13_tagHead/tagHead.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" selection-start-line="5" selection-end-line="6" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson14_forms/forms.html">
+    <entry file="file://$PROJECT_DIR$/pureHTMLLessons/lesson14_forms/forms.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="646">
           <caret line="38" column="28" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson10_images/images.html">
+    <entry file="file://$PROJECT_DIR$/pureHTMLLessons/lesson10_images/images.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="36" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson15_textArea_button/textArea.html">
+    <entry file="file://$PROJECT_DIR$/pureHTMLLessons/lesson15_textArea_button/textArea.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
+        <state relative-caret-position="68">
           <caret line="4" column="73" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="73" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson16_selectAndOption/selectAndOption.html">
+    <entry file="file://$PROJECT_DIR$/pureHTMLLessons/lesson16_selectAndOption/selectAndOption.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
+        <state relative-caret-position="442">
           <caret line="26" column="73" selection-start-line="26" selection-start-column="73" selection-end-line="26" selection-end-column="73" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson19_moreTags/moreTags.html">
+    <entry file="file://$PROJECT_DIR$/pureHTMLLessons/lesson19_moreTags/moreTags.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="44" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson18_subAndSup/subAndSup.html">
+    <entry file="file://$PROJECT_DIR$/pureHTMLLessons/lesson18_subAndSup/subAndSup.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson5_tagTest/tagTest.html">
+    <entry file="file://$PROJECT_DIR$/pureHTMLLessons/lesson5_tagTest/tagTest.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="532">
           <caret line="72" column="9" selection-start-line="72" selection-start-column="4" selection-end-line="72" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson17_specialTagsRadio/specialTagsRadio.html">
+    <entry file="file://$PROJECT_DIR$/pureHTMLLessons/lesson17_specialTagsRadio/specialTagsRadio.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="25" selection-end-column="14" />
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="25" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson20_browserOptimisation/browserOptimisation.html">
+    <entry file="file://$PROJECT_DIR$/pureHTMLLessons/lesson20_browserOptimisation/browserOptimisation.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="804">
-          <caret line="64" column="14" selection-start-line="64" selection-start-column="14" selection-end-line="64" selection-end-column="14" />
+        <state relative-caret-position="799">
+          <caret line="47" column="42" selection-start-line="47" selection-start-column="42" selection-end-line="47" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/lesson1-2_simpleExample/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" selection-start-column="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/lesson1-2_simpleExample/simpleExample.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="40" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
         </state>
       </provider>
     </entry>
