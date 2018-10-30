@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="313d8e87-1127-4460-94ed-b434a16588ad" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS/lesson1-4_Selectors/simpleExample.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/lesson1-4_Selectors/simpleExample.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/lesson1-4_Selectors/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/lesson1-4_Selectors/style.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,12 +19,12 @@
     <window id="1">
       <content type="file-editors">
         <state>
-          <leaf>
+          <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
             <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
               <entry file="file://$PROJECT_DIR$/CSS/lesson1-4_Selectors/style.css">
                 <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="357">
-                    <caret line="21" column="24" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="24" />
+                  <state relative-caret-position="374">
+                    <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
                     <folding>
                       <marker date="1540302187773" expanded="true" signature="2:31" ph="..." />
                     </folding>
@@ -42,8 +42,8 @@
       <file leaf-file-name="simpleExample.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CSS/lesson1-4_Selectors/simpleExample.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+            <state>
+              <caret selection-end-line="24" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -103,8 +103,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1323" />
-    <option name="width" value="604" />
+    <option name="x" value="953" />
+    <option name="width" value="974" />
     <option name="height" value="527" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -115,31 +115,7 @@
       <showMembers ProjectPane="false" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="HTML_Lessons" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HTML_Lessons" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HTML_Lessons" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HTML_Lessons" type="462c0819:PsiDirectoryNode" />
-              <item name="CSS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HTML_Lessons" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HTML_Lessons" type="462c0819:PsiDirectoryNode" />
-              <item name="CSS" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson1-4_Selectors" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -189,12 +165,14 @@
       <workItem from="1540036264507" duration="1531000" />
       <workItem from="1540122380966" duration="15444000" />
       <workItem from="1540150768118" duration="2568000" />
-      <workItem from="1540293465238" duration="4675000" />
+      <workItem from="1540293465238" duration="6484000" />
+      <workItem from="1540594496297" duration="154000" />
+      <workItem from="1540594701209" duration="16000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62136000" />
+    <option name="totallyTimeSpent" value="64115000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -206,8 +184,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1323" y="0" width="604" height="527" extended-state="0" />
-    <editor active="true" />
+    <frame x="1913" y="0" width="1166" height="1689" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.23062016" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3295711" />
@@ -591,8 +568,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CSS/lesson1-4_Selectors/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="24" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="24" />
+        <state relative-caret-position="374">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
           <folding>
             <marker date="1540302187773" expanded="true" signature="2:31" ph="..." />
           </folding>
@@ -601,8 +578,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CSS/lesson1-4_Selectors/simpleExample.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+        <state>
+          <caret selection-end-line="24" selection-end-column="17" />
         </state>
       </provider>
     </entry>
