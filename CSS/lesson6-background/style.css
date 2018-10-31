@@ -11,7 +11,8 @@
 
 /*для абсолютно всего документа*/
 html {
-    background-color: aquamarine
+    background: url('https://cdn131.picsart.com/268800808020211.png?r1024x1024') no-repeat violet left top;
+
 }
 #header_red {color: red}
 

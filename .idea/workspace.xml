@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="313d8e87-1127-4460-94ed-b434a16588ad" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/CSS/lesson6-background/background.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/lesson1-4_Selectors/simpleExample.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/lesson1-4_Selectors/simpleExample.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/lesson1-4_Selectors/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/lesson1-4_Selectors/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/lesson6-background/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/lesson6-background/style.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,15 +17,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DockManager">
-    <window id="1">
+    <window id="2">
       <content type="file-editors">
         <state>
           <leaf>
             <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/CSS/lesson1-4_Selectors/style.css">
+              <entry file="file://$PROJECT_DIR$/CSS/lesson6-background/style.css">
                 <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="348">
-                    <caret line="48" column="13" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
+                  <state relative-caret-position="221">
+                    <caret line="13" column="106" selection-start-line="13" selection-start-column="106" selection-end-line="13" selection-end-column="106" />
                   </state>
                 </provider>
               </entry>
@@ -37,11 +37,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="simpleExample.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CSS/lesson1-4_Selectors/simpleExample.html">
+      <file leaf-file-name="simpleExample2.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CSS/lesson6-background/simpleExample2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="331">
-              <caret line="33" column="7" lean-forward="true" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
+            <state relative-caret-position="238">
+              <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -88,6 +88,7 @@
         <option value="$PROJECT_DIR$/CSS/lesson1-2_simpleExample/style.css" />
         <option value="$PROJECT_DIR$/CSS/lesson1-4_Selectors/style.css" />
         <option value="$PROJECT_DIR$/CSS/lesson1-4_Selectors/simpleExample.html" />
+        <option value="$PROJECT_DIR$/CSS/lesson6-background/style.css" />
       </list>
     </option>
   </component>
@@ -130,7 +131,13 @@
               <item name="HTML_Lessons" type="b2602c69:ProjectViewProjectNode" />
               <item name="HTML_Lessons" type="462c0819:PsiDirectoryNode" />
               <item name="CSS" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson1-4_Selectors" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson1-5_simpleExample" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HTML_Lessons" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HTML_Lessons" type="462c0819:PsiDirectoryNode" />
+              <item name="CSS" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson6-background" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -148,7 +155,11 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Win10\WebstormProjects\HTML_Lessons\CSS\lesson6-background" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Win10\WebstormProjects\HTML_Lessons\CSS" />
       <recent name="C:\Users\Win10\WebstormProjects\HTML_Lessons\pureHTMLLessons" />
       <recent name="C:\Users\Win10\WebstormProjects\HTML_Lessons" />
     </key>
@@ -191,12 +202,12 @@
       <workItem from="1540594496297" duration="154000" />
       <workItem from="1540594701209" duration="16000" />
       <workItem from="1540900451477" duration="450000" />
-      <workItem from="1540985513914" duration="5074000" />
+      <workItem from="1540985513914" duration="6195000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69639000" />
+    <option name="totallyTimeSpent" value="70760000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -211,7 +222,7 @@
     <frame x="1084" y="0" width="843" height="608" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.22939068" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22857143" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3295711" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -282,20 +293,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pureHTMLLessons/lesson5_tagTest/tagTest.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1377">
-          <caret line="81" column="49" selection-start-line="81" selection-start-column="49" selection-end-line="81" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pureHTMLLessons/lesson14_forms/forms.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="44" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pureHTMLLessons/lesson9_links/links.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -591,17 +588,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CSS/lesson1-4_Selectors/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="48" column="13" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CSS/lesson1-4_Selectors/simpleExample.html">
+    <entry file="file://$PROJECT_DIR$/CSS/lesson1-5_simpleExample/simpleExample.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="331">
           <caret line="33" column="7" lean-forward="true" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/lesson1-5_simpleExample/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/lesson6-background/simpleExample2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/lesson6-background/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="106" selection-start-line="13" selection-start-column="106" selection-end-line="13" selection-end-column="106" />
         </state>
       </provider>
     </entry>
