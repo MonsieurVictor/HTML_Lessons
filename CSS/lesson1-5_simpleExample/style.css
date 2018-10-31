@@ -1,0 +1,59 @@
+
+/** {
+    font-size: 20px;
+}*/
+
+
+/*для всего текста*/
+* {
+    text-decoration: none;
+}
+
+/*для абсолютно всего документа*/
+html {
+    background-color: aquamarine
+}
+#header_red {color: red}
+
+#header_green {color: green}
+
+h3.style {color: yellow}
+
+p.style {background-color: blue}
+
+p i {
+    color: brown;
+    text-decoration: underline;
+}
+
+
+p.example, b {
+    font-size: 30px;
+    font-weight: lighter;
+}
+
+p#pseudo_class:first-letter {
+    color:red;
+}
+
+p#pseudo_class:first-line {
+    color: #b46a12;
+}
+
+.href {
+    color: #500d00;
+    text-decoration: overline;
+}
+
+.href:hover {
+    color: green;
+    text-decoration: underline;
+}
+
+.href:active {
+    color: blue;
+}
+
+p:hover {
+    background-color: red;
+}
