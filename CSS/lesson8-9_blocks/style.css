@@ -1,0 +1,11 @@
+
+#testBlock {
+    border: 2px outset silver;
+    border-bottom: 3px dashed red;
+    height: 200px;
+    width: 500px;
+    background-color: #11f7f7;
+    margin: 10px 10px 10px 10px;
+    padding: 30px;
+    border-radius: 10px;
+}
