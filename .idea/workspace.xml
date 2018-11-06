@@ -17,15 +17,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DockManager">
-    <window id="2">
+    <window id="1">
       <content type="file-editors">
         <state>
           <leaf>
             <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/CSS/lesson6-background/style.css">
+              <entry file="file://$PROJECT_DIR$/CSS/lesson7_textStyles/style.css">
                 <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="221">
-                    <caret line="13" column="106" selection-start-line="13" selection-start-column="106" selection-end-line="13" selection-end-column="106" />
+                  <state relative-caret-position="288">
+                    <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
                   </state>
                 </provider>
               </entry>
@@ -36,17 +36,7 @@
     </window>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="simpleExample2.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CSS/lesson6-background/simpleExample2.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -89,6 +79,9 @@
         <option value="$PROJECT_DIR$/CSS/lesson1-4_Selectors/style.css" />
         <option value="$PROJECT_DIR$/CSS/lesson1-4_Selectors/simpleExample.html" />
         <option value="$PROJECT_DIR$/CSS/lesson6-background/style.css" />
+        <option value="$PROJECT_DIR$/CSS/lesson6-background/simpleExample2.html" />
+        <option value="$PROJECT_DIR$/CSS/lesson7_textStyles/style.css" />
+        <option value="$PROJECT_DIR$/CSS/lesson7_textStyles/simpleExample2.html" />
       </list>
     </option>
   </component>
@@ -101,10 +94,10 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1084" />
-    <option name="width" value="843" />
-    <option name="height" value="608" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="1109" />
+    <option name="width" value="811" />
+    <option name="height" value="601" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -131,13 +124,7 @@
               <item name="HTML_Lessons" type="b2602c69:ProjectViewProjectNode" />
               <item name="HTML_Lessons" type="462c0819:PsiDirectoryNode" />
               <item name="CSS" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson1-5_simpleExample" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HTML_Lessons" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HTML_Lessons" type="462c0819:PsiDirectoryNode" />
-              <item name="CSS" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson6-background" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson7_textStyles" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -149,19 +136,22 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Win10\WebstormProjects\HTML_Lessons\CSS\lesson6-background" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Vvv\WebstormProjects\HTML_Lessons\CSS" />
       <recent name="C:\Users\Win10\WebstormProjects\HTML_Lessons\CSS" />
       <recent name="C:\Users\Win10\WebstormProjects\HTML_Lessons\pureHTMLLessons" />
       <recent name="C:\Users\Win10\WebstormProjects\HTML_Lessons" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Vvv\WebstormProjects\HTML_Lessons\CSS\lesson7_textStyles" />
+      <recent name="C:\Users\Win10\WebstormProjects\HTML_Lessons\CSS\lesson6-background" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -203,11 +193,14 @@
       <workItem from="1540594701209" duration="16000" />
       <workItem from="1540900451477" duration="450000" />
       <workItem from="1540985513914" duration="6195000" />
+      <workItem from="1541521140933" duration="682000" />
+      <workItem from="1541521892679" duration="24000" />
+      <workItem from="1541522312465" duration="5237000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70760000" />
+    <option name="totallyTimeSpent" value="76703000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -219,19 +212,18 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1084" y="0" width="843" height="608" extended-state="0" />
-    <editor active="true" />
+    <frame x="1109" y="0" width="811" height="601" extended-state="1" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22857143" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1992238" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3295711" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3295711" />
       <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3295711" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3295711" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -244,19 +236,19 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2044199" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1992238" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3295711" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.3295711" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3295711" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.3295711" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info id="Favorites" order="2" side_tool="true" />
     </layout-to-restore>
   </component>
@@ -293,20 +285,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pureHTMLLessons/lesson9_links/links.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pureHTMLLessons/lesson10_images/images.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pureHTMLLessons/lesson11_tables/tables.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -604,17 +582,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CSS/lesson6-background/simpleExample2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        <state relative-caret-position="556">
+          <caret line="30" column="34" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CSS/lesson6-background/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="106" selection-start-line="13" selection-start-column="106" selection-end-line="13" selection-end-column="106" />
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="9" selection-end-column="1" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/lesson7_textStyles/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/lesson7_textStyles/simpleExample2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

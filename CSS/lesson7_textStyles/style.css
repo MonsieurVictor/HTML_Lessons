@@ -1,0 +1,26 @@
+* {
+    text-decoration: none;
+}
+
+p {
+    text-indent: 21.1em;
+}
+#textStyles {
+    font-size: 1.1em;
+    font-weight: normal;
+    font-family: Comic Sans MS, sans-serif;
+    text-transform: capitalize;
+    line-height: 10px;
+    word-spacing: 10px;
+
+}
+/*что лучше ,указывать family шрифта в кавычках или без?*/
+
+#textStyles span {
+    text-transform: none;
+    letter-spacing: 5px;
+}
+
+#textStyles:hover {
+    background-color: blueviolet;
+}
